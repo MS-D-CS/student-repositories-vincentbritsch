@@ -41,12 +41,12 @@ h2 {
 
 article#about_tss h1 {
    color: white;
-   background-color: rgb(222, 128, 60)
+   background-color: rgb(222, 128, 60);
 }
 
 article#about_tss h2 {
    color: white;
-   background-color: rgb(235, 177, 131)
+   background-color: rgb(235, 177, 131);
 }
 
 
@@ -55,7 +55,7 @@ article#about_tss h2 {
 /* Aside and Blockquote Styles */
 
 aside blockquote {
-   color: rgb(232, 165, 116)
+   color: rgb(232, 165, 116);
 }
 
 
